@@ -1,0 +1,7 @@
+device,variant,users,purchasers,conversion_pct,revenue_per_user
+desktop,control,1948,378,19.4,10.08
+desktop,treatment,1942,429,22.09,11.06
+mobile,control,3666,611,16.67,8.38
+mobile,treatment,3707,818,22.07,11.22
+tablet,control,375,80,21.33,10.55
+tablet,treatment,362,74,20.44,10.67

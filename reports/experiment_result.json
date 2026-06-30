@@ -1,0 +1,24 @@
+{
+  "control_users": 5989,
+  "treatment_users": 6011,
+  "control_conversions": 1069,
+  "treatment_conversions": 1321,
+  "control_rate": 0.17849390549340458,
+  "treatment_rate": 0.21976376642821494,
+  "absolute_lift": 0.04126986093481036,
+  "relative_lift": 0.2312115969490919,
+  "z_score": 5.659961860274877,
+  "p_value": 1.5140664018031848e-08,
+  "ci_low": 0.02699956622278757,
+  "ci_high": 0.05554015564683315,
+  "significant": true,
+  "sample_ratio_mismatch": {
+    "chi_square": 0.04033333333333333,
+    "p_value": 0.8408302496157976,
+    "passed": true
+  },
+  "planned_mde": 0.025,
+  "required_users_per_variant": 3880,
+  "adequately_powered": true,
+  "recommendation": "Ship treatment"
+}

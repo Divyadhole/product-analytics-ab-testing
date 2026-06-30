@@ -1,0 +1,3 @@
+variant,sessions,product_views,carts,purchases,session_to_view_pct,view_to_cart_pct,cart_to_purchase_pct
+control,5989,4895,1895,1069,81.73,38.71,56.41
+treatment,6011,4975,2075,1321,82.76,41.71,63.66
