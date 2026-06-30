@@ -22,6 +22,7 @@ def main() -> None:
     result = analyze(db_path)
     report_path = ROOT / "reports/experiment_report.html"
     create_report(db_path, result, report_path)
+    create_report(db_path, result, ROOT / "docs/index.html")
     (ROOT / "reports/experiment_result.json").write_text(
         json.dumps(result, indent=2), encoding="utf-8"
     )

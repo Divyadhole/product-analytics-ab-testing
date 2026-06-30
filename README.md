@@ -1,5 +1,9 @@
 # Product Analytics & A/B Testing Platform
 
+[![View Live Dashboard](https://img.shields.io/badge/View_Live_Dashboard-9FE870?style=for-the-badge&logo=github&logoColor=111827)](https://divyadhole.github.io/product-analytics-ab-testing/)
+
+**[Open the interactive executive dashboard →](https://divyadhole.github.io/product-analytics-ab-testing/)**
+
 An interview-ready product analytics case study that answers a concrete business question:
 
 > **Should an e-commerce company ship a redesigned checkout progress experience?**
@@ -9,6 +13,8 @@ The project starts with raw, event-level behavioral data and produces a statisti
 ## Executive result
 
 The simulated treatment changes the checkout experience after a shopper adds an item to their cart. The analysis measures whether it improves purchase conversion without hiding device-level behavior.
+
+The published dashboard is available at **[divyadhole.github.io/product-analytics-ab-testing](https://divyadhole.github.io/product-analytics-ab-testing/)**.
 
 Run the pipeline to calculate the final result from reproducible data:
 
